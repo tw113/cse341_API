@@ -1,0 +1,2 @@
+# get all data for the prove08 frontend
+GET http://localhost:8080/professional
